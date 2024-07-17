@@ -423,6 +423,35 @@ local tbl =
 				version = 2,
 			},
 		},
+		
+		{
+			data = 
+			{
+				actions = 
+				{
+					
+					{
+						data = 
+						{
+							aType = "Variable",
+							gVar = "ACR_RikuDRK3_Tankbar_TheBlackestNightSelf",
+							uuid = "0a3c29aa-7ff1-fe5e-ade0-0a4c15de3b98",
+							variableTogglesType = 3,
+							version = 2,
+						},
+					},
+				},
+				conditions = 
+				{
+				},
+				mechanicTime = 222.2,
+				name = "pls tbn",
+				timelineIndex = 31,
+				timerOffset = -3,
+				uuid = "b13606bd-6a88-a1d2-be31-a7c19ab0fafc",
+				version = 2,
+			},
+		},
 	},
 	[36] = 
 	{
@@ -975,7 +1004,7 @@ local tbl =
 			},
 		},
 	},
-	[88] = 
+	[86] = 
 	{
 		
 		{
@@ -998,11 +1027,40 @@ local tbl =
 				conditions = 
 				{
 				},
-				mechanicTime = 4003.7,
+				mechanicTime = 3157.7,
 				name = "pls living dead",
-				timelineIndex = 88,
+				timelineIndex = 86,
 				timerOffset = -3,
-				uuid = "bc35a518-b42c-cdc0-ad51-464a45a9b9eb",
+				uuid = "3831bd4e-e2e0-a655-86e1-18408baa2367",
+				version = 2,
+			},
+		},
+		
+		{
+			data = 
+			{
+				actions = 
+				{
+					
+					{
+						data = 
+						{
+							aType = "Variable",
+							gVar = "ACR_RikuDRK3_Tankbar_OblationSelf",
+							uuid = "b72cb396-234b-5060-9236-188696c61c30",
+							variableTogglesType = 3,
+							version = 2,
+						},
+					},
+				},
+				conditions = 
+				{
+				},
+				mechanicTime = 3157.7,
+				name = "pls obl",
+				timelineIndex = 86,
+				timerOffset = -3,
+				uuid = "94bb1683-cafb-ee0b-8a66-ff2b1e91b1c0",
 				version = 2,
 			},
 		},
